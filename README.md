@@ -1,9 +1,8 @@
-# Global Trend Radar
+# Minisite de Noticias — Vite + React + TS (Tailwind por CDN)
 
-Proyecto Vite + React + TS.
+Proyecto generado automáticamente a partir de tus noticias. Estructura fija de 14 archivos.
 
-## Scripts
-- npm install
-- npm run dev
-- npm run build
-- npm run preview
+## Ejecutar localmente
+```bash
+npm i
+npm run dev
